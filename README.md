@@ -1,16 +1,15 @@
-## Hi there 👋
+# Roberto Nightingale 
 
-<!--
-**robertonight/robertonight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Professional Software Developer with a College Diploma (DEC) in Computer Science Technology
+- Graduating Software Engineering Student at !ÉTS[https://www.etsmtl.ca/en/]
 
-Here are some ideas to get you started:
+## Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend** — .NET, Springboot, Maven, Django/drf, FastApi 
+
+**Frontend** — JavaScript/TS, React
+
+**DevOps & Infrastructure** — Docker, Kubernetes, Nginx, Linux
+
+**Also** — Python, Java, C#, bash, C++, SQL
+
