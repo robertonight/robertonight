@@ -1,7 +1,7 @@
 # Roberto Nightingale 
 
 - Professional Software Developer with a College Diploma (DEC) in Computer Science Technology
-- Graduating Software Engineering Student at !ÉTS[https://www.etsmtl.ca/en/]
+- Graduating Software Engineering Student at [ÉTS](https://www.etsmtl.ca)
 
 ## Stacks
 
